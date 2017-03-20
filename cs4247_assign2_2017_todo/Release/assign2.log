@@ -1,0 +1,9 @@
+﻿  Main.cpp
+Main.cpp(446): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Raytrace.cpp
+  Sphere.cpp
+Sphere.cpp(81): warning C4101: “t”: 未引用的局部变量
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  assign2.vcxproj -> \\Mac\Home\Downloads\cs4247_assign2_2017_todo\Release\assign2.exe
+  assign2.vcxproj -> Release\assign2.pdb (Full PDB)
